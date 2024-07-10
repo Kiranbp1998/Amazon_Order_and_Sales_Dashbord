@@ -8,6 +8,6 @@ Data Modelling
 Data Analysis (DAX)
 Data Visualization Dashboard
 
-All Problem Statements information attached in Zif file so go and check for more information.
+All Problem Statements information attached in Zip file so go and check for more information.
 
 
